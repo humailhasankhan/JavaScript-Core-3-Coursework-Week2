@@ -1,0 +1,12 @@
+body {
+  font-size: 1rem;
+  font-family: sans-serif;
+  background-color: rgb(156, 178, 198);
+  color: rgb(36, 41, 39);
+}
+h1 {
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
